@@ -12,8 +12,10 @@ I am a software developer from Montreal, Quebec.
 - Linkedin: https://www.linkedin.com/in/ericduffield/
 
 ## Some of my projects
+
 - ericduffield.com: [website](https://ericduffield.com/) [github](https://github.com/ericduffield/ericduffield.com)
 - Duff Coin: [website](https://duffcoincrypto.com/) [github](https://github.com/ericduffield/DuffCoin)
+
 - Better Stake: [website](https://betterstake.netlify.app/) [github](https://github.com/ericduffield/BetterStake)
 - Ski Shop: [github](https://github.com/ericduffield/Ski-Rental-Website)
 
