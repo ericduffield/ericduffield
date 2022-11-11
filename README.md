@@ -1,6 +1,7 @@
 # Hi, I'm Eric👋
 
-<img src="https://i.imgur.com/N6EG1RV.jpg" height="300"></img>
+<img src="https://i.imgur.com/7jyc2jm.png" max-width="960"></img>
+
 ## About me
 
 I am a software developer from Montreal, Quebec.
