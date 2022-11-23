@@ -19,6 +19,7 @@ I am a software developer from Montreal, Quebec.
 
 - Better Stake: [website](https://betterstake.netlify.app/) [github](https://github.com/ericduffield/BetterStake)
 - Ski Rental Shop: [github](https://github.com/ericduffield/Ski-Rental-Website)
+- C&P Game: [play](https://jofflobster.itch.io/crime-and-punishment)
 
 ## Languages and tools
 <div>
