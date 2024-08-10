@@ -16,9 +16,10 @@ Linkedin: https://www.linkedin.com/in/ericduffield/
 
 ## Some of my projects
 
+- 📈 [Portfolio Manager](https://github.com/ericduffield/PortfolioManager)
 - 🎮 [Hue Game](https://github.com/ericduffield/Hue-Game)
 - 🎿 [Rental Ski Shop](https://github.com/ericduffield/Ski-Rental-Website)
-- 📈 [BetterStake](https://betterstake.netlify.app/)
+- 📊 [BetterStake](https://betterstake.netlify.app/)
 - 🧍 [C&P Game](https://jofflobster.itch.io/crime-and-punishment)
 - 🌿 [GrowOps](https://github.com/ericduffield/GrowOps)
 - ✉️ [Personal Website](https://ericduffield.com/)
